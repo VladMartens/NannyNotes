@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Preloader.unity
+    guid: 0b1a5ab6791a5f044911f0aa0280fa2a
+  - enabled: 1
+    path: Assets/Scenes/Intro_Book.unity
+    guid: eab13d8f08d42d04cb885b723241e545
+  - enabled: 1
+    path: Assets/Scenes/Intro_ Grandmothers.unity
+    guid: 4a62ac9059301824fbe931639938a034
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/DinDon.unity"
+    guid: fc939ef0e7cba8b4282b279abcf98c84
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/Hall.unity"
+    guid: 9a506468837526742b1710114b6b44bc
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/I1.unity"
+    guid: 3084ae7001227904eaa75b1446a227b8
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/I2.unity"
+    guid: 3b200bcc8fe69a2439a745f0d716bde6
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/girlRoom.unity"
+    guid: bae9e410fb2dc1a439735eb980b30b70
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/nanyRoom.unity"
+    guid: b4ff8f1da86309f429d8e5dbb5e84393
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/I3.unity"
+    guid: 41733d317281fa847bef50a40cba5c22
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/parentroom.unity"
+    guid: 59e87ec555a46ee4cb3e0d96f717f233
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/boyroom.unity"
+    guid: a1ba696c47094ff4b8176f8c133704da
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/balcony.unity"
+    guid: bd559e31de7405b439f4ec443a862528
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/cellar.unity"
+    guid: 4f65aa2eff8d6e24fbaa9a276f0cc2ca
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/guestroom.unity"
+    guid: 928c3b3298ad5d2489dafd71974d92a8
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/kitchen.unity"
+    guid: b6c7f08c0dc965d49ab79d9b7e4f84e6
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/bath.unity"
+    guid: 0f72a5b9c13c5dc4eaf4a6dc50e4c0f5
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/lawn.unity"
+    guid: cda042a42edc759468dc52fc1dbed454
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/barn.unity"
+    guid: 4ac200e31aef72747895da7a8b28f835
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/zlawn.unity"
+    guid: 7a8a2c8641eae70479fdab4488df3c9a
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/behind_barn.unity"
+    guid: 57d4647904de8c74fa2cc5ba7518b210
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/chicks.unity"
+    guid: 4ff24cca61d15154f8afc2f51207034c
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/behind_barn_zfence.unity"
+    guid: f4055d1772cd56c48bd7c920dbb72910
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/storeplace.unity"
+    guid: 679bdd47ae1e509459cc842bd22786cb
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/store.unity"
+    guid: 5a95ca1199e007a49ab33b9752c2947f
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/bdhouse.unity"
+    guid: 9a57a438676f61c4db9e5595b2c93a27
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/arbor.unity"
+    guid: 9d642658e31bccb44936d33e5b24674e
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/attic.unity"
+    guid: 5096c7ccd6e63ed4c8f6acaaa586fb80
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/extro.unity"
+    guid: cb5cecc7273f22a4386853fe953e368e
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/grannyRoom.unity"
+    guid: 32198f7f2a452434f8582628c2b7d61e
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/MainMenu.unity"
+    guid: 933a4e8c592cc4f45b5b2b8fd99efb2d
+  - enabled: 1
+    path: "Assets/Scenes/Lo\u0441ations/closet.unity"
+    guid: 6befb6adec4a7dc4fb8c979c4346ca7a
+  m_configObjects: {}

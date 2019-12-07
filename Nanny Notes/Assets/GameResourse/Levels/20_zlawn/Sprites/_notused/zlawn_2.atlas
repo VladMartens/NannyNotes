@@ -1,0 +1,16 @@
+textures: zlawn_2.png
+zlawn1bg.png	0	0	978	351	0	0	978	351	
+zlawn_bear_with_car.png	0	352	151	110	0	0	151	110	
+zlawn_hat.png	152	352	65	103	0	0	65	103	
+zlawn_clouds2.png	0	463	903	95	0	0	903	95	
+zlawn_birdd.png	904	352	66	92	0	0	66	92	
+zlawn_clown.png	218	352	55	85	0	0	55	85	
+zlawn_cloud.png	0	559	1024	75	0	0	1024	75	
+cl3.png	0	635	1024	70	0	0	1024	70	
+zlawn_anchor.png	274	352	47	59	0	0	47	59	
+zlawn_raven.png	322	352	62	58	0	0	62	58	
+zlawn_frog.png	385	352	79	49	0	0	79	49	
+zlawn_squirl.png	465	352	45	47	0	0	45	47	
+zlawn_dove.png	979	0	38	39	0	0	38	39	
+zlawn_reptile.png	511	352	84	35	0	0	84	35	
+zlawn_bowl.png	596	352	50	20	0	0	50	20	

@@ -1,0 +1,10 @@
+textures: attic_depart.png
+department_open.png	0	0	641	350	0	0	641	350	
+department_secret_to_basment1.png	0	351	430	610	0	0	430	610	
+department_secret_to_basment2.png	431	351	430	610	0	0	430	610	
+department_cut4.png	862	0	117	96	0	0	117	96	
+department_cut1.png	642	0	117	96	0	0	117	96	
+department_cut5.png	862	97	117	96	0	0	117	96	
+department_cut2.png	642	97	117	96	0	0	117	96	
+department_cut3.png	862	194	117	96	0	0	117	96	
+department_secret_chalk_eraser.png	760	0	95	89	0	0	95	89	

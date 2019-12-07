@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e7b0c292892bb704a9344f9eb1093983
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EpsilonCTT
+  fontNames:
+  - EpsilonCTT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 105981f6319886e41b1627180277c209, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
